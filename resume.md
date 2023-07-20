@@ -8,8 +8,9 @@
     ![Description](./Picture/photoID.JPG), without center
 -->
 
-
-![Description](./Picture/photoID.JPG)
+<p align="center">
+    <img src="./Picture/photoID.JPG" alt="drawing" width="200"/>
+<p>
 
 ## Skills
 * Software Programs:
