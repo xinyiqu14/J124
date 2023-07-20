@@ -7,7 +7,6 @@
     It can be also used as 
     ![Description](./Picture/photoID.JPG), without center
 -->
-
 <p align="center">
     <img src="./Picture/photoID.JPG" alt="drawing" width="200"/>
 <p>
